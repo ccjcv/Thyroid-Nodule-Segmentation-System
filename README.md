@@ -1,1 +1,0 @@
-# Thyroid-Nodule-Segmentation-System
