@@ -16,6 +16,8 @@
 ![image](https://github.com/ccjcv/Thyroid-Nodule-Segmentation-System/blob/main/%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%A4%9A%E7%BA%BF%E7%A8%8B.PNG)
 
 BPAT-UNet模型的分割与测试：
+BPAT-UNet: Boundary Preserving Assembled Transformer UNet for Ultrasound Thyroid Nodule Segmentation(2023 CCJ)
+https://github.com/ccjcv/BPAT-UNet
 ![image](https://github.com/ccjcv/Thyroid-Nodule-Segmentation-System/blob/main/BPAT-UNet%E5%88%86%E5%89%B2%E4%B8%8E%E6%B5%8B%E8%AF%95.PNG)
 
 UNet模型的分割与测试：
