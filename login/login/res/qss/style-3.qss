@@ -1,0 +1,35 @@
+/**
+    该页面为浅紫色皮肤
+*/
+#frame_background{
+border-image:url(:/res/pic/background-4.png);
+}
+#lbl_title
+{
+   color:#00BFFF;
+}
+#label_pre
+{
+   color:#FF6347;
+}
+#lbl_test
+{
+   color:#FF7F50;
+}
+/*右侧图片*/
+#frame_tu1{
+    background-image:url(:/res/pic/yi3.jpg);
+
+}
+#lbl_Image1{
+   background-color:#FFE4E1;
+}
+#lbl_Image2{
+   background-color:#FFE4E1;
+}
+
+
+
+
+
+
